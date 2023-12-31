@@ -1,7 +1,6 @@
 ![1161810](https://github.com/1Hamza-Hashmi1/1Hamza-Hashmi1/assets/146145658/c5e38ff8-e791-487d-8d87-481354c834b6)
 
-<h1 align="center">Hi 👋, I'm Hamza Hashmi</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1hamza-hashmi1&label=Profile%20views&color=0e75b6&style=flat" alt="1hamza-hashmi1" /> </p>
+<h1>📖 About Me</h1>
 
 - 🔭 I’m currently working on Web Design
 
